@@ -2,3 +2,4 @@ send_metrics=false
 name = "imagebed"
 main = "src/index.js"
 compatibility_date = "2025-12-30"
+[assets]
